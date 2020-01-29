@@ -12,7 +12,7 @@ Este repositorio recopila los AMSI BYPASS de 2020
 
 ## AMSI Bypass Enero 2020 (Powershell Reverse Shell)
 
-
+Trabajo de: https://0xdarkvortex.dev/index.php/2019/07/17/red-team-ttps-part-1-amsi-evasion/
 
 
 
